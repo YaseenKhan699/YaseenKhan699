@@ -49,8 +49,3 @@
 ## My Projects
 - [GitHub Portfolio](https://github.com/YaseenKhan699/YaseenKhan699) – Key projects and practice repositories
 
----
-
-## GitHub Stats
-![Yaseen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKhan699&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenKhan699&layout=compact&theme=radical)
