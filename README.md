@@ -1,12 +1,9 @@
 # 👋 Hi, I'm YASEEN KHAN
 
 ## 🔭 About Me
-I’m a DevOps Engineer Intern with hands-on experience in automating workflows, API testing, and managing cloud environments. During my internship, I gained practical experience with Docker, CI/CD pipelines, GitHub, Linux, and cloud platforms including AWS, Azure, and Huawei Cloud.  
+DevOps Engineer Intern with hands-on experience in API testing, CI/CD pipelines, and cloud platforms.  
+Passionate about learning new DevOps techniques and improving workflow efficiency.
 
-I enjoy learning new tools and techniques in DevOps and cloud computing and aim to improve efficiency and reliability in software operations.
-  
-
-I enjoy solving complex problems, optimizing processes, and continuously learning emerging technologies. My goal is to contribute to impactful projects while deepening my expertise in cloud solutions, DevOps automation, and full-stack development.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-yaseen-khan-7b863a295)
