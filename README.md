@@ -4,7 +4,7 @@
 - 🔧 **Role**: DevOps Engineer Intern
 - 🌱 **Currently Learning**: Cloud Technologies, CI/CD, Automation
 - 💬 **Ask Me About**: Python, DevOps, Cloud Platforms, API Testing
-- 📫 **Reach Me At**: [yaseenkhan@example.com](mailto:yaseenkhan@example.com)
+- 📫 **Reach Me At**: [yaseenkhan@example.com](mailto:yaseenoffices@gmail.com)
 - 🌐 **Portfolio**: [https://github.com/YaseenKhan699](https://github.com/YaseenKhan699)
 
 ## 🔗 Connect with Me
@@ -22,10 +22,3 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=flat-square&logo=huawei&logoColor=white)
 
-## 📂 My Projects
-- [DevOps Mini Project](https://github.com/YaseenKhan699/Devops-mini-project) – Implemented CI/CD pipelines using Docker and GitHub Actions.
-- [API Testing with Python](https://github.com/YaseenKhan699/api-testing) – Automated API testing scripts using Python and JMeter.
-
-## 📊 GitHub Stats
-![Yaseen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKhan699&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenKhan699&layout=compact&theme=radical)
