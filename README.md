@@ -1,5 +1,10 @@
+# 👋 Hi, I'm YASEEN KHAN
+
 ## 🔭 About Me
-I’m Yaseen Khan, a passionate DevOps Engineer and software enthusiast with hands-on experience in automating workflows, managing cloud infrastructure, and building scalable applications. During my internship, I gained practical experience in API testing, CI/CD pipelines, Docker, and cloud platforms like AWS, Azure, and Huawei Cloud.  
+I’m a DevOps Engineer Intern with hands-on experience in automating workflows, API testing, and managing cloud environments. During my internship, I gained practical experience with Docker, CI/CD pipelines, GitHub, Linux, and cloud platforms including AWS, Azure, and Huawei Cloud.  
+
+I enjoy learning new tools and techniques in DevOps and cloud computing and aim to improve efficiency and reliability in software operations.
+  
 
 I enjoy solving complex problems, optimizing processes, and continuously learning emerging technologies. My goal is to contribute to impactful projects while deepening my expertise in cloud solutions, DevOps automation, and full-stack development.
 
