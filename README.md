@@ -3,7 +3,7 @@
 🔭 I’m a DevOps Engineer Intern  
 🌱 Currently mastering Cloud, CI/CD, and Automation  
 💬 Ask me anything about Python, DevOps, Cloud, or API Testing  
-📫 How to reach me: yaseenkhan@example.com  
+📫 How to reach me: yaseenoffices@gmail.com  
 
 ---
 
@@ -43,9 +43,3 @@
 - Programming: Python, C++  
 - Testing: API Testing, JMeter  
 - Version Control: Git & GitHub  
-
----
-
-## My Projects
-- [GitHub Portfolio](https://github.com/YaseenKhan699/YaseenKhan699) – Key projects and practice repositories
-
