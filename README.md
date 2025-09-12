@@ -1,7 +1,7 @@
 # Hi 👋, I'm Yaseen Khan
 
 🔭 I’m a DevOps Engineer Intern  
-🌱 I’m currently enhancing my skills in Cloud, CI/CD, and Automation  
+🌱 Currently mastering Cloud, CI/CD, and Automation  
 💬 Ask me anything about Python, DevOps, Cloud, or API Testing  
 📫 How to reach me: yaseenkhan@example.com  
 
@@ -13,12 +13,12 @@
 
 ---
 
-## Languages and Tools
+## Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Shell Scripting](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![JMeter](https://img.shields.io/badge/JMeter-E97D0D?style=for-the-badge&logo=apachejmeter&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
@@ -38,3 +38,10 @@
 
 ## My Projects
 - [GitHub Portfolio](https://github.com/YaseenKhan699/YaseenKhan699) – Key projects and practice repositories
+
+---
+
+## GitHub Stats
+![Yaseen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaseenKhan699&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenKhan699&layout=compact&theme=radical)
