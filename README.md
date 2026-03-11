@@ -1,7 +1,7 @@
 # 👋 Hi, I'm YASEEN KHAN
 
 ## 🔭 About Me
-DevOps Engineer Intern with hands-on experience in API testing, CI/CD pipelines, and cloud platforms.  
+Associate DevOps Engineer with hands-on experience in API testing, CI/CD pipelines, and cloud platforms.  
 Passionate about learning new DevOps techniques and improving workflow efficiency.
 
 
